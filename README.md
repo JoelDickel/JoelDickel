@@ -18,7 +18,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoelDickel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div> 
 
-<h2 aling="left"># Algumas coisas sobre mim </h2>
+<h2 aling="left">Algumas coisas sobre mim </h2>
 <p aling="left" color="grey" font-size="20px">
      🧑‍Joel Dickel. <br />
      🏠Morando em Teutônia - RS<br />
@@ -44,6 +44,6 @@
 
 </p>
 <p align="center" color="grey">
-    # Baseado no perfil de <a href="https://github.com/cleomarschmitzhaus">Cleo</a>.<br />
+     Baseado no perfil de <a href="https://github.com/cleomarschmitzhaus">Cleo</a>.<br />
     Vlw Cleo!
 </p>
