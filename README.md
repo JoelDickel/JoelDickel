@@ -1,6 +1,6 @@
- <h1 color="black" align="center">Joel Dickel - Yeah, sou eu!.</h1>
+ <h1 color="black" align="center">Joel Dickel - Yeah, sou eu!</h1>
 
-<h1 color="black" align="center">E ai pessoal, tudo bem? Aqui tenho alguns projetos que você pode olhar!.</h1>
+<h1 color="black" align="center">E ai pessoal, tudo bem? Aqui tenho alguns projetos que você pode olhar.</h1>
 <br />
 <p align="center" color="grey" size="14px">Me encontrem nas redes sociais:</p>
 
