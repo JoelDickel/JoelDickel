@@ -24,7 +24,7 @@
      🏠Morando em Teutônia - RS<br />
      🕸️Trabalho como assistente de e-commerce sênior. <br />
      💼Tenho interesse nas seguintes tecnologias: Git, Python, C#, SQL, Unity, .Net, etc...<br />
-     ✨ Sou formado em Administração e tenho pós em Gestão de Negócios Digitais<br />
+     ✨ Sou formado em Administração e tenho pós em Gestão de Negócios Digitais e cursando Engenharia de Software<br />
      🥇 Dedico meu futuro inteiro para a programação.<br />
      🎮 Sou apaixonado por jogos de coputador e vídeo games.<br />
     
